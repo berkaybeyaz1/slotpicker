@@ -16,6 +16,12 @@ const lang = {
       selectedTitle: "heure sélectionnée",
       am: 'matin',
       pm: 'midi'
+   },
+
+   tr: {
+      selectedTitle: 'seçilen zaman',
+      am: 'Gündüz',
+      pm: 'Akşam'
    }
 };
 
